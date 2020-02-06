@@ -8,7 +8,8 @@ public class Chinna1
 		System.out.println("hi");
 		// TODO Auto-generated method stub
 		System.out.println("hello");
-		System.out.println("now"); 
+		System.out.println("now");
+		System.out.println("testing");
 	}
 
 }
