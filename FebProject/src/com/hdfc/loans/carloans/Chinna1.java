@@ -10,7 +10,6 @@ public class Chinna1
 		System.out.println("hello");
 		System.out.println("now");
 		System.out.println("testing");
-		System.out.println(" fdg");
 	}
 
 }
